@@ -2,22 +2,20 @@
 
 🚀 **Research Assistant / PhD Student at the University of Stuttgart** | 🎓 **M.Sc. Electrical Engineering and Information Technology** | 🌍 **Stuttgart, Germany**
 
-*Telecommunication Systems* | *Radio-based Localization & Channel Charting* | *Machine Learning* | *Signal Processing* | *Massive MIMO Channel Prediction* | *Location Privacy*
+*Wireless Telecommunication Systems* | *Radio-based Localization & Channel Charting* | *Machine Learning* | *Signal Processing*
 
 Welcome to my GitHub profile!
 I'm currently pursuing my PhD at the University of Stuttgart, focusing on wireless telecommunication systems, radio-based localization, and especially channel charting. My research interests also include massive MIMO channel prediction and location privacy.
 
-🤓 Check out my publications on  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?logo=googlescholar&logoColor=white&style=flat)](https://scholar.google.de/citations?user=ep_N4NoAAAAJ&hl=en)
-
+🤓 Check out my publications on [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?logo=googlescholar&logoColor=white&style=flat)](https://scholar.google.de/citations?user=ep_N4NoAAAAJ&hl=en)
 ---
 
 ## ✨ Further Public Source Code
 
 Tutorials on channel charting with Jupyter Notebooks:
+
 - [Timestamp / Triplet-Based Channel Charting](https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/)
 - [Dissimilarity Metric-Based Channel Charting](https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/dissimilarity-metric-channelcharting/)
-
 ---
 
 ## 🌱 Topics I'm Diving Into
@@ -25,7 +23,6 @@ Tutorials on channel charting with Jupyter Notebooks:
 - Signal Processing
 - Machine Learning
 - Deep Neural Networks
-
 ---
 
 ## 📫 Contact
