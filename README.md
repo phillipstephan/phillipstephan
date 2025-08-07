@@ -8,6 +8,7 @@ Welcome to my GitHub profile!
 I'm currently pursuing my PhD at the University of Stuttgart, focusing on wireless telecommunication systems, radio-based localization, and especially channel charting. My research interests also include massive MIMO channel prediction and location privacy.
 
 🤓 Check out my publications on [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?logo=googlescholar&logoColor=white&style=flat)](https://scholar.google.de/citations?user=ep_N4NoAAAAJ&hl=en)
+
 ---
 
 ## ✨ Further Public Source Code
