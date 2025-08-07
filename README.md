@@ -1,6 +1,6 @@
 # Hi there, I'm Phillip Stephan 👋
 
-🚀 **Research Assistant / PhD Student at the University of Stuttgart** | 🎓 **M.Sc. Electrical Engineering and Information Technology** | 🌍 **Stuttgart, Germany**
+🚀 **Research Assistant / PhD Student at the University of Stuttgart** | 🎓 **M.Sc. Electrical Engineering and Information Technology**
 
 *Wireless Telecommunication Systems* | *Radio-based Localization & Channel Charting* | *Machine Learning* | *Signal Processing*
 
