@@ -19,13 +19,6 @@ Tutorials on channel charting with Jupyter Notebooks:
 - [Dissimilarity Metric-Based Channel Charting](https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/dissimilarity-metric-channelcharting/)
 ---
 
-## 🌱 Topics I'm Diving Into
-
-- Signal Processing
-- Machine Learning
-- Deep Neural Networks
----
-
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/phillip-stephan-36aa27303/)
