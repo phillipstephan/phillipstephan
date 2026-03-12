@@ -21,7 +21,7 @@ Tutorials on channel charting with Jupyter Notebooks:
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/phillip-stephan-36aa27303/)
+- [LinkedIn](https://www.linkedin.com/in/phillip-stephan/)
 - [University Website](https://www.inue.uni-stuttgart.de/institute/team/Stephan-M.Sc./)
 
 <!--
